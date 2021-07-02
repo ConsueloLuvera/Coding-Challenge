@@ -1,0 +1,96 @@
+body{
+    background-image:  url("background.jpg");
+    background-size: 100% ;
+}
+
+.logo{
+    width: 220px;
+}
+
+.container{
+    width: 1000px;
+    margin-top: 0px;
+    margin-left: 300px;
+    margin-right: 260px;
+    padding: 110px;
+    padding-bottom: 50px;
+    padding-right: 30px;
+    padding-left: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0, 0.5);
+}
+
+.logo-text{
+    color: rgb(64, 219, 64);
+    margin: auto;
+}
+
+header{
+    text-align: center;
+}
+
+nav{
+    background-color:rgb(64, 219, 64);
+    width: 900px;
+    height: 40px;
+    margin-left: 0px;
+    text-align: center;
+}
+
+button{
+    margin-top: 10px;
+}
+
+.veicolo{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.Gino22{
+    color: white;
+    margin-top: 10px;
+}
+
+.narrow{
+    display: inline-block;
+}
+
+.address{
+    display: inline-block;
+}
+
+hr{
+    border-width: 0px;
+}
+
+#Charge-Gino{
+    background-color: rgb(206, 160, 74);
+    width: 350px;
+    height: 25px;
+    border-radius: 5px;
+}
+
+.Mike24{
+    color: white;
+    margin-top: 50px;
+}
+
+#Charge-Mike{
+    background-color: rgb(64, 219, 64);
+    width: 580px;
+    height: 25px;
+    border-radius: 5px;
+}
+
+.Fede154{
+    color: white;
+    margin-top: 50px;
+}
+
+#Charge-Fede{
+    background-color: rgb(185, 82, 56);
+    width: 150px;
+    height: 25px;
+    border-radius: 5px;
+}
